@@ -1,0 +1,14 @@
+
+High Sales and High Visit Frequency (Cluster 2 and 4):
+These customers are in the highest percentiles for both average sales quantity and average monthly visit frequency.
+Strategy is Focus on retaining these customers with personalized offers and rewards. Engage them with loyalty programs and exclusive benefits to maintain their high activity levels.
+
+High Sales and Moderate Visit Frequency (Cluster 1):
+These customers have high average sales quantity but moderate average monthly visit frequency.
+Strategy is Encourage repeat visits with targeted promotions and reminders. Offer incentives for frequent purchases and referrals.
+
+Moderate Sales and Moderate Visit Frequency (Cluster 3):
+These customers have moderate average sales quantity and average monthly visit frequency.Strategy is Implement customer satisfaction surveys to understand their preferences better. Provide personalized recommendations and product bundles to increase their average spending.
+
+Low Sales and Low Visit Frequency (Cluster 0):
+These customers have low average sales quantity and visit frequency.Strategy is Implement a win-back campaign with attractive offers to encourage them to return. Highlight new products or services that may interest them based on their past purchases.

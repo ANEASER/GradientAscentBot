@@ -1,0 +1,28 @@
+High Sales and High Visit Frequency (Cluster 2 and 4)
+Promotional Items:
+Fresh Vegetables and Fruits: Carrot, Potatoes, Pumpkin, Cucumber, Green Beans, Beetroot, Capsicum, Tomatoes, Banana, Papaya, Fuji Apple, Green Apple, Pineapple, Orange, Grapes, Mango
+Dairy Products: Milk Carton, Vanilla Ice Cream, Chocolate Ice Cream, Butter, Cheese Slices, Cheese Wedges, Set Yogurt, Drinking Yogurt
+Wellness Food: Protein Bars, Multivitamin Bottle, Smoothie Mix 6 Packs, Green Tea Bags 25 Pack
+Frozen Meat: Chicken Breast Slices 500g, Chicken Sausages 150g, Pork Bacon 500g, Chicken Meatballs 250g, Beef Meatballs 200g
+Seafood: Prawns, Cuttlefish, Tuna, Seer Fish, Sea Crabs
+
+High Sales and Moderate Visit Frequency (Cluster 1)
+Promotional Items:
+Pet Food and Care: Cat Food, Dog Treats, Chicken and Liver Treats, Dog Leash, Slicker Brush, Pet Shampoo, Dog Collar, Cat Litter
+Beauty and Personal Care: Shampoo, Conditioner, Body Wash, Facial Cleanser, Soap, Perfume, Lip Balm, Sunscreen
+Baby Needs: Baby Soap, Baby Diapers, Baby Cream, Baby Shampoo, Silicon Pacifiers
+
+Moderate Sales and Moderate Visit Frequency (Cluster 3)
+Promotional Items:
+Stationery: Single Rule Exercise Book 120p, A5 Spiral Notebook 100p, Single Rule CR Book 120p, Glue Stick, Highlighter 6 Pack, Whiteboard Marker Blue, Stapler Large, Ballpoint Pens Blue 6 Pc, Pencils HB 6 Pc, Drawing Book Small 20pg
+Wellness Products: Yoga Mat
+
+Low Sales and Low Visit Frequency (Cluster 0)
+Promotional Items:
+Items across all categories: Focus on a broad range of items to find what might interest these customers based on their past purchases. Highlight new arrivals and popular items from categories like Fresh Vegetables and Fruits, Dairy Products, Beauty and Personal Care, and Baby Needs.
+By focusing on these strategies and promotional items, we can better align our efforts with customer behavior patterns, driving increased engagement and sales across different customer segments.
+
+
+
+
+
